@@ -4,7 +4,7 @@
 <title>Simple DOM Style Change</title>
 </head>
 <body>
-<h2 id="text">Hello Students</h2>
+<h2 id="text">Hello everyone </h2>
 <button onclick="changeStyle()">Change Style</button>
 <script>
  {
