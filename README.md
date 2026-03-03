@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
  <html>
 <head>
 <title>Simple DOM Style Change</title>
